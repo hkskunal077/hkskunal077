@@ -1,4 +1,4 @@
-<p align="center"><img style ="margin:auto;" align="center" src= "https://cdn.dribbble.com/users/2660249/screenshots/6664064/comp_1.gif"></p>
+<p align="center"><img style ="margin:auto;" align="center" src= "https://dribbble.com/shots/6664064-Space/attachments/6664064-Space?mode=media"></p>
 <h1 align="center">Hi I'm Kunal Sharma</h1>
 <h3 align="center">AI Engineer, Mathematician, Programmer</h3>
 <h4 align = "center">3rd Year Undergraduate, Delhi Techonological University</h4><br>
