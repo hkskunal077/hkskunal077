@@ -1,9 +1,7 @@
 <!--<p align="center"><img style ="margin:auto;" align="center" src= "https://drive.google.com/file/d/1zfKI3fpo1iGKe0cSwuHQhVUUPrAOwWeH/view?usp=sharing"></p>-->
 <img src="https://raw.githubusercontent.com/kunal077/kunal077/master/header.png" width="100%" height="100%" alt="Welcome to My Profile" />
 
-<h1 align="center">Hi I'm Kunal Sharma</h1>
-<h3 align="center">AI Engineer, Mathematician, Programmer</h3>
-<h4 align = "center">3rd Year Undergraduate, Delhi Techonological University</h4><br>
+<h4 align = "center">Final Year Undergraduate studying Mathematics and Computer Science, Delhi Techonological University</h4><br>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kunal077" alt="kunal077" /></a> </p>
 
