@@ -6,7 +6,7 @@
 
                                🔭 I’m currently working on Exponent and Semi Exponent Operators in Approximation Theory.
 
-                               🌱 I’m currently learning TensorFlow, Deep Learning Algorithms, Python and Data Structures Algorithms.
+                               🌱 I’m currently learning TensorFlow, Deep Learning Algorithms, MLOps and Data Structures Algorithms.
 
                                💬 Ask me about Analysis, Algebra, Stats, Python, JS, AI, ML, Space Technologies
 
