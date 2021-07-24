@@ -8,7 +8,7 @@
 
                                🌱 I’m currently learning TensorFlow, Deep Learning Algorithms, MLOps and Data Structures Algorithms.
 
-                               💬 Ask me about Analysis, Algebra, Stats, Python, JS, AI, ML, Space Technologies
+                               💬 Ask me about Python, Artificial Intelligence, Math. 
 
                                📫 How to reach me kushkunal077@gmail.com
 
