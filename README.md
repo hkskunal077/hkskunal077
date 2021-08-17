@@ -4,7 +4,7 @@
 
 <!-- Zero width character is used to put extra blank lines before and after code -->
 
-<h3>
+<h2>
     
 ```python
 ​
@@ -31,7 +31,7 @@ arsenal = Arsenal()
 print(arsenal.jsonify())
 ​
 ```
-</h3>
+</h2>
 
 
 <h3 align="center">Connect with me:</h3>
