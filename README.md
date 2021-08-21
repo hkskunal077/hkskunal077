@@ -15,7 +15,7 @@ from dataclasses import asdict, dataclass
 
 
 @dataclass
-class Arsenal:
+class Suits:
     languages: tuple[str, ...] = ("Python", "C/C++", "JavaScript", "little idea about others too")
     databases: tuple[str, ...] = ("MySQL", "PostgreSQL","Cassandraa")
     libraries: tuple[str, ...] = ("TensorFlow", "Pandas, Numpy", "PyTorch", "OpenCV")
@@ -27,8 +27,8 @@ class Arsenal:
         return json.dumps(asdict(self), indent=4)
 
 
-arsenal = Arsenal()
-print(arsenal.jsonify())
+suit = Suits()
+print(suit.jsonify())
 ​
 ```
 </h2>
