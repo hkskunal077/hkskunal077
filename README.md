@@ -1,5 +1,4 @@
-<!--<p align="center"><img style ="margin:auto;" align="center" src= "https://drive.google.com/file/d/1zfKI3fpo1iGKe0cSwuHQhVUUPrAOwWeH/view?usp=sharing"></p>-->
-<!--<img src="https://raw.githubusercontent.com/kunal077/kunal077/master/header.png" width="100%" height="100%" alt="Welcome to My Profile" />-->
+![Kunal's GitHub stats](https://github-readme-stats.vercel.app/api?username=kunal077&show_icons=true&theme=tokyonight)
 
 
 <!-- Zero width character is used to put extra blank lines before and after code -->
