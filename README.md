@@ -1,6 +1,3 @@
-![Kunal's GitHub stats](https://github-readme-stats.vercel.app/api?username=kunal077&show_icons=true&theme=tokyonight)
-
-
 <!-- Zero width character is used to put extra blank lines before and after code -->
 
 <h2>
