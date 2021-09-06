@@ -25,7 +25,6 @@ class Suits:
 
 suit = Suits()
 print(suit.jsonify())
-​
 ```
 </h2>
 
