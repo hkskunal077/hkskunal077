@@ -12,7 +12,7 @@ from dataclasses import asdict, dataclass
 
 @dataclass
 class Suits:
-    languages: tuple[str, ...] = ("Python", "C/C++", "JavaScript", "little idea about others too")
+    languages: tuple[str, ...] = ("Python", "C++", "JavaScript", "Java")
     databases: tuple[str, ...] = ("MySQL", "PostgreSQL","Cassandraa")
     libraries: tuple[str, ...] = ("TensorFlow", "Pandas, Numpy", "PyTorch", "OpenCV")
     misc     : tuple[str, ...] = ("Docker", "Jenkins", "Github", "AWS")
