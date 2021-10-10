@@ -1,4 +1,4 @@
-<img src="https://i.ytimg.com/vi/0v4FGlGB0Yc/maxresdefault.jpg">
+<img src="https://s167.daydaynews.cc/?url=https%3A%2F%2Fimg.juqingba.cn%2F202008%2F5d1fcb42ffe44962ae7b7575a3221cf6.gif">
 
 <!-- Zero width character is used to put extra blank lines before and after code -->
 
