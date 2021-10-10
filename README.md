@@ -1,3 +1,5 @@
+<img src="https://i.ytimg.com/vi/0v4FGlGB0Yc/maxresdefault.jpg">
+
 <!-- Zero width character is used to put extra blank lines before and after code -->
 
 <h2>
