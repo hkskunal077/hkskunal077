@@ -1,4 +1,4 @@
-<img src="[https://i.ytimg.com/vi/0v4FGlGB0Yc/maxresdefault.jpg](https://images.hdqwalls.com/wallpapers/the-batman-minimal-dark-5k-r1.jpg)">
+<img src="https://images.hdqwalls.com/wallpapers/the-batman-minimal-dark-5k-r1.jpg">
 
 <!-- Zero width character is used to put extra blank lines before and after code -->
 
