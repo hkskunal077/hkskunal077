@@ -5,7 +5,7 @@
 
   ```python
 
-  Some day I'll put something here, buys building an army of robots (i basically mean code) for me.
+  Some day I'll put something here, busy building an army of robots (i basically mean code).
 
   ```
 
