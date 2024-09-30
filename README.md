@@ -4,9 +4,7 @@
 <h3>   
 
   ```python
-
-  Some day I'll put something here, busy building an army of robots (i basically mean code).
-
+  One day I'll put something here.
   ```
 
 </h3> 
