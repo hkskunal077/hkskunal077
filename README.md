@@ -4,7 +4,7 @@
 <h3>   
 
   ```python
-  One day I'll put something here.
+  Trying to be a jack of all trades or maybe I have severe ADHD
   ```
 
 </h3> 
